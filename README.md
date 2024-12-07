@@ -24,12 +24,12 @@ To begin using this template, choose one of the following options to get started
 
 ## Usage
 
-### Cyb 101
+### CS
 
 <details>
 <summary>Click to expand</summary>
 ### Description
-This class was with professor Bopp and was similar to this class. we learned current events and simple tools such as wireshark and ion cannons. we also learned basic commands in the command prompt such as ns lookup.
+This class is the class we are currently taking. It delves into many different aspects of computer science and has current events weekly. These current events are on current topics being discussed by profesionals daily. Especially AI this was a big discussion in this course.
 
 ### Basic Usage
 
