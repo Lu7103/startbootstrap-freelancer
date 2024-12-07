@@ -24,6 +24,13 @@ To begin using this template, choose one of the following options to get started
 
 ## Usage
 
+### Cyb 101
+
+<details>
+<summary>Click to expand</summary>
+### Description
+This class was with professor Bopp and was similar to this class. we learned current events and simple tools such as wireshark and ion cannons. we also learned basic commands in the command prompt such as ns lookup.
+
 ### Basic Usage
 
 After downloading, simply edit the HTML and CSS files included with `dist` directory. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
