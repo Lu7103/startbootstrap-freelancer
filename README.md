@@ -24,7 +24,7 @@ To begin using this template, choose one of the following options to get started
 
 ## Usage
 
-### CS
+### CS 101
 
 <details>
 <summary>Click to expand</summary>
